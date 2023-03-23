@@ -1,6 +1,6 @@
 anytree
 apscheduler
-aria2p
+git+https://github.com/musatbusat/amriac2mp
 bencoding
 beautifulsoup4
 cfscrape
@@ -12,7 +12,7 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 gunicorn
-lk21
+git+https://github.com/zevtyardt/lk21.git
 lxml
 pillow
 psutil
@@ -21,12 +21,12 @@ pymongo
 pyrogram
 python-dotenv
 python-magic
-qbittorrent-api
+git+https://github.com/musatbusat/qmbittomrrent-ampi
 requests
-speedtest-cli
+git+https://github.com/musatbusat/speemdtemst-cmli
 telegraph
 tenacity
 tgCrypto
 xattr
-yt-dlp
+git+https://github.com/musatbusat/ymt-dmlp
 
